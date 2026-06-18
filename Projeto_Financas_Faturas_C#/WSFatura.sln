@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34931.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSFatura", "WSFatura.csproj", "{385CD8D5-B6F4-41F6-BC87-98274804703A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{385CD8D5-B6F4-41F6-BC87-98274804703A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385CD8D5-B6F4-41F6-BC87-98274804703A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385CD8D5-B6F4-41F6-BC87-98274804703A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385CD8D5-B6F4-41F6-BC87-98274804703A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4513C99-5855-4CA1-B9D0-6848BD51D577}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+C:\Users\helder\OneDrive\Ambiente de Trabalho\WSFatura\WSFatura\bin\Debug\WSFatura.exe.config
+C:\Users\helder\OneDrive\Ambiente de Trabalho\WSFatura\WSFatura\bin\Debug\WSFatura.exe
+C:\Users\helder\OneDrive\Ambiente de Trabalho\WSFatura\WSFatura\bin\Debug\WSFatura.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\WSFatura\WSFatura\obj\Debug\WSFatura.csproj.AssemblyReference.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\WSFatura\WSFatura\obj\Debug\WSFatura.Form1.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\WSFatura\WSFatura\obj\Debug\WSFatura.Properties.Resources.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\WSFatura\WSFatura\obj\Debug\WSFatura.csproj.GenerateResource.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\WSFatura\WSFatura\obj\Debug\WSFatura.csproj.CoreCompileInputs.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\WSFatura\WSFatura\obj\Debug\WSFatura.exe
+C:\Users\helder\OneDrive\Ambiente de Trabalho\WSFatura\WSFatura\obj\Debug\WSFatura.pdb
+C:\Users\Cassiano Videira\Desktop\WSFatura\WSFatura\bin\Debug\WSFatura.exe.config
+C:\Users\Cassiano Videira\Desktop\WSFatura\WSFatura\bin\Debug\WSFatura.exe
+C:\Users\Cassiano Videira\Desktop\WSFatura\WSFatura\bin\Debug\WSFatura.pdb
+C:\Users\Cassiano Videira\Desktop\WSFatura\WSFatura\obj\Debug\WSFatura.csproj.AssemblyReference.cache
+C:\Users\Cassiano Videira\Desktop\WSFatura\WSFatura\obj\Debug\WSFatura.Form1.resources
+C:\Users\Cassiano Videira\Desktop\WSFatura\WSFatura\obj\Debug\WSFatura.Properties.Resources.resources
+C:\Users\Cassiano Videira\Desktop\WSFatura\WSFatura\obj\Debug\WSFatura.csproj.GenerateResource.cache
+C:\Users\Cassiano Videira\Desktop\WSFatura\WSFatura\obj\Debug\WSFatura.csproj.CoreCompileInputs.cache
+C:\Users\Cassiano Videira\Desktop\WSFatura\WSFatura\obj\Debug\WSFatura.exe
+C:\Users\Cassiano Videira\Desktop\WSFatura\WSFatura\obj\Debug\WSFatura.pdb

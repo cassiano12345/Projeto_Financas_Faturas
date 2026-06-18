@@ -1,0 +1,60 @@
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+<S:Header>
+<wss:Security xmlns:wss="http://schemas.xmlsoap.org/ws/2002/12/secext">
+<wss:UsernameToken>
+<wss:Username>599999993/0037</wss:Username>
+<wss:Password>testes1234</wss:Password>
+<wss:Nonce>
+fkAHne7cqurxpImCfBC8EEc2vskyUyNofWi0ptIijYg4gYCxir++unzfPVPpusloEtmLkcZjf+E6
+T9/76tsCqdupUkxOhWtkRH5IrNwmfEW1ZGFQgYTF21iyKBRzMdsJMhhHrofYYV/YhSPdT4dlgG0t
+k9Z736jFuw061mP2TNqHcR/mQR0yW/AEOC6RPumqO8OAfc9/b4KFBSfbpY9HRzbD8bKiTo20n0Pt
+amZevCSVHht4yt/Xwgd+KV70WFzyesGVMOgFRTWZyXyXBVaBrkJS8b6PojxADLcpWRnw5+YeOs3c
+PU2o1H/YgAam1QuEHioCT2YTdRt+9p6ARNElFg==
+</wss:Nonce>
+<wss:Created>YEWoIoqIY5DOD11SeXz+0i4b/AJg1/RgNcOHOYpSxGk</wss:Created>
+</wss:UsernameToken>
+</wss:Security>
+</S:Header>
+<S:Body>
+<doc:RegisterInvoiceRequest xmlns:doc="http://factemi.at.min_financas.pt/documents">
+<doc:eFaturaMDVersion>0.0.1</doc:eFaturaMDVersion>
+ <doc:AuditFileVersion>1.04_01</doc:AuditFileVersion>
+ <doc:TaxRegistrationNumber>599999993</doc:TaxRegistrationNumber>
+ <doc:TaxEntity>Global</doc:TaxEntity>
+ <doc:SoftwareCertificateNumber>0</doc:SoftwareCertificateNumber>
+ <doc:InvoiceData>
+ <doc:InvoiceNo>FT 1/1</doc:InvoiceNo>
+ <doc:ATCUD>0</doc:ATCUD>
+ <doc:InvoiceDate>2021-01-01</doc:InvoiceDate>
+ <doc:InvoiceType>FT</doc:InvoiceType>
+ <doc:SelfBillingIndicator>0</doc:SelfBillingIndicator>
+ <doc:CustomerTaxID>111111111</doc:CustomerTaxID>
+ <doc:CustomerTaxIDCountry>PT</doc:CustomerTaxIDCountry>
+ <doc:DocumentStatus>
+ <doc:InvoiceStatus>N</doc:InvoiceStatus>
+ <doc:InvoiceStatusDate>2021-01-01T11:12:13</doc:InvoiceStatusDate>
+ </doc:DocumentStatus>
+ <doc:HashCharacters>0</doc:HashCharacters>
+ <doc:CashVATSchemeIndicator>0</doc:CashVATSchemeIndicator>
+ <doc:PaperLessIndicator>0</doc:PaperLessIndicator>
+ <doc:SystemEntryDate>2021-01-01T11:12:13</doc:SystemEntryDate>
+ <doc:LineSummary>
+ <doc:TaxPointDate>2021-01-01</doc:TaxPointDate>
+ <doc:DebitCreditIndicator>C</doc:DebitCreditIndicator>
+ <doc:Amount>100.00</doc:Amount>
+ <doc:Tax>
+ <doc:TaxType>IVA</doc:TaxType>
+ <doc:TaxCountryRegion>PT</doc:TaxCountryRegion>
+ <doc:TaxCode>NOR</doc:TaxCode>
+ <doc:TaxPercentage>23.00</doc:TaxPercentage>
+ </doc:Tax>
+ </doc:LineSummary>
+ <doc:DocumentTotals>
+ <doc:TaxPayable>23.00</doc:TaxPayable>
+ <doc:NetTotal>100.00</doc:NetTotal>
+ <doc:GrossTotal>123.00</doc:GrossTotal>
+ </doc:DocumentTotals>
+ </doc:InvoiceData>
+</doc:RegisterInvoiceRequest>
+</S:Body>
+</S:Envelope>

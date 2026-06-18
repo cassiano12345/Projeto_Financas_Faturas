@@ -1,0 +1,1 @@
+NOK|A ligação subjacente foi fechada: Erro inesperado ao receber.
