@@ -1,4 +1,4 @@
-### 📧Projeto envio de faturas
+### 🧾Projeto envio de faturas
 
  O presente projeto é destinado ao envio de faturas, documentos de conferência e recibos a Autoridade Tributária e Aduaneira (AT), por meio de uma API fornecida pela mesma, foi também fornecida uma chave publica e um certificado ssl, que serão usado para criptografar a password, a data e o nonce, feito isso os dados são organizados num ficheiro SOAP e so assim são enviados via API. Para mais informações ver "Manual de integração de software" em links.
 
