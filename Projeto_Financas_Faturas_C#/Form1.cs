@@ -23,7 +23,6 @@ namespace WSFatura
         private string strEncryptCreatedAT;
         private string strEncryptNonceAT;
         private string path = AppDomain.CurrentDomain.BaseDirectory.ToString() + "Faturas/";
-        public string strDigestAT;
         public Form1()
         {
             InitializeComponent();
@@ -125,8 +124,6 @@ namespace WSFatura
                 string createdDate = DateTime.UtcNow.ToString("yyyy-MM-ddTHH:mm:ssZ");
                 string encryptedCreated = EncryptAES(createdDate, Ks);
 
-                // Generate Digest for Password
-                string digest = CalculateSHA1Digest(pPwdAT, createdDate, Ks);
 
                 // Encrypt symmetric key with RSA
                 string encryptedNonce = EncryptRSA(Ks, publicKeyXml);
@@ -135,19 +132,16 @@ namespace WSFatura
                 strEncryptPasswordAT = encryptedPassword;
                 strEncryptCreatedAT = encryptedCreated;
                 strEncryptNonceAT = encryptedNonce;
-                strDigestAT = digest;
 
                 Console.WriteLine("strEncryptPasswordAT: " + strEncryptPasswordAT);
                 Console.WriteLine("strEncryptCreatedAT: " + strEncryptCreatedAT);
                 Console.WriteLine("strEncryptNonceAT: " + strEncryptNonceAT);
-                Console.WriteLine("strDigestAT: " + strDigestAT);
             }
             catch (Exception ex)
             {
                 strEncryptPasswordAT = "";
                 strEncryptCreatedAT = "";
                 strEncryptNonceAT = "";
-                strDigestAT = "";
                 Console.WriteLine("Error: " + ex.Message);
             }
         }
@@ -170,21 +164,6 @@ namespace WSFatura
                     }
                     return Convert.ToBase64String(ms.ToArray());
                 }
-            }
-        }
-
-        private string CalculateSHA1Digest(string password, string created, byte[] key)
-        {
-            // Concatenate Password + Created + Key
-            string concatenated = password + created + Encoding.UTF8.GetString(key);
-
-            // Calculate SHA-1 Digest
-            using (var sha1 = SHA1.Create())
-            {
-                byte[] hash = sha1.ComputeHash(Encoding.UTF8.GetBytes(concatenated));
-
-                // Encrypt digest with AES
-                return EncryptAES(Convert.ToBase64String(hash), key);
             }
         }
 

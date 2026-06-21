@@ -18,3 +18,13 @@ C:\Users\Cassiano Videira\Desktop\WSFatura\WSFatura\obj\Debug\WSFatura.csproj.Ge
 C:\Users\Cassiano Videira\Desktop\WSFatura\WSFatura\obj\Debug\WSFatura.csproj.CoreCompileInputs.cache
 C:\Users\Cassiano Videira\Desktop\WSFatura\WSFatura\obj\Debug\WSFatura.exe
 C:\Users\Cassiano Videira\Desktop\WSFatura\WSFatura\obj\Debug\WSFatura.pdb
+C:\Users\Cassiano Videira\Desktop\Projetos\Projeto_Financas_Faturas\Projeto_Financas_Faturas_C#\bin\Debug\WSFatura.exe.config
+C:\Users\Cassiano Videira\Desktop\Projetos\Projeto_Financas_Faturas\Projeto_Financas_Faturas_C#\bin\Debug\WSFatura.exe
+C:\Users\Cassiano Videira\Desktop\Projetos\Projeto_Financas_Faturas\Projeto_Financas_Faturas_C#\bin\Debug\WSFatura.pdb
+C:\Users\Cassiano Videira\Desktop\Projetos\Projeto_Financas_Faturas\Projeto_Financas_Faturas_C#\obj\Debug\WSFatura.csproj.AssemblyReference.cache
+C:\Users\Cassiano Videira\Desktop\Projetos\Projeto_Financas_Faturas\Projeto_Financas_Faturas_C#\obj\Debug\WSFatura.Form1.resources
+C:\Users\Cassiano Videira\Desktop\Projetos\Projeto_Financas_Faturas\Projeto_Financas_Faturas_C#\obj\Debug\WSFatura.Properties.Resources.resources
+C:\Users\Cassiano Videira\Desktop\Projetos\Projeto_Financas_Faturas\Projeto_Financas_Faturas_C#\obj\Debug\WSFatura.csproj.GenerateResource.cache
+C:\Users\Cassiano Videira\Desktop\Projetos\Projeto_Financas_Faturas\Projeto_Financas_Faturas_C#\obj\Debug\WSFatura.csproj.CoreCompileInputs.cache
+C:\Users\Cassiano Videira\Desktop\Projetos\Projeto_Financas_Faturas\Projeto_Financas_Faturas_C#\obj\Debug\WSFatura.exe
+C:\Users\Cassiano Videira\Desktop\Projetos\Projeto_Financas_Faturas\Projeto_Financas_Faturas_C#\obj\Debug\WSFatura.pdb
