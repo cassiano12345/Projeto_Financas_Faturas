@@ -3,7 +3,7 @@
  O presente projeto é destinado ao envio de faturas...
 
  ### Algumas funcionalidades a destacar
-Ficheiro->
+Ficheiro->Projeto_Financas_Faturas_C#->Form1.cs
 
 ***Funções***
 - EncryptAT: A função tem como variáveis de entrada duas variáveis uma para a password, e o caminho da chave publica, o principal objetivo da função é gerar a chave simetrica "AES", e com a mesma chave simetrica chamar outras funções para criptografar a password, a data, e o nonce.
