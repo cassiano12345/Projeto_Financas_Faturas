@@ -37,5 +37,5 @@ https://faturas.portaldasfinancas.gov.pt/
 - Site das Finanças <br/>
 https://www.portaldasfinancas.gov.pt/at/html/index.html
 
-- Manual de integração <br/>
+- Manual de integração de software <br/>
 https://info.portaldasfinancas.gov.pt/pt/apoio_ao_contribuinte/Outras_entidades/Suporte_tecnologico/Webservice/e_Fatura/Documents/Comunicacao_dos_elementos_dos_documentos_de_faturacao_aspetos_gerais.pdf
