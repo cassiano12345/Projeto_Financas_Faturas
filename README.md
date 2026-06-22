@@ -21,6 +21,16 @@ Ficheiro->Projeto_Financas_Faturas_C#->Form1.cs
 
 - StrEncryptNonceAT: Variavel destinada a guardar o Nonce criptografado.<br/>
 
+***Imagens*** <br/>
+
+***Página principal*** <br/>
+A imagem a baixo mostra a página principal do programa, onde é possivel ver os campos do NIF, da password, e o campo destinado a mostrar a resposta do servidor. 
+
+<p align="center">
+  <img src="Imagem principal do programa.png" alt="OpenMontage" width="700">
+</p>
+
+
 ***Links***
 - Link da API de testes destinado a autenticação <br/>
 https://servicos.portaldasfinancas.gov.pt:723/fatcorews/ws/
